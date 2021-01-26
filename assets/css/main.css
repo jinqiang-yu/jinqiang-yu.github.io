@@ -14,8 +14,6 @@ body{
 	font-size: 19px;
     	padding-top: 15px;
     	padding-bottom: 25px;
-	padding-left: 15px;
-	padding-right: 15px;
     	line-height: 29px;
 }
 
@@ -71,6 +69,11 @@ body{
 		    padding-top: 15px;
 		    padding-right: 50px;
 		}
+	
+	.home-description{
+		padding-left: 90px;
+		padding-right: 90px;
+	}
 }
 .img-rabbit{
 	width: 100%;
