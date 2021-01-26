@@ -49,7 +49,7 @@ body{
 @media (min-width: 778px)
 {
 		.main{
-			height: 100vh;
+			height: auto;
 		}
 
 		.img-rabbit{
