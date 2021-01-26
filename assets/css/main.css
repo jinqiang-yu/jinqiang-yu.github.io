@@ -331,7 +331,7 @@ footer{
 }
 
 .bibliography { margin-bottom: 50px; margin-top: 20px; list-style-type: circle; }
-.bibliography li { margin: 10px 0; position: relative; }
+.bibliography li { margin: 10px 0; position: relative; font-size: 18px; }
 .bibliography li span { display: block; }
 .bibliography li .title { font-weight: bold; }
 .bibliography li .author a:hover { border-bottom: 1px dashed #729fcf; text-decoration: none; }
