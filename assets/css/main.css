@@ -1,6 +1,7 @@
 body{
 	background-color: #f9f9f9;
 	font-family: "Crimson Text";
+	overflow: scroll;
 }
 
 .main{
@@ -50,6 +51,7 @@ body{
 {
 		.main{
 			height: 200vh;
+			overflow: scroll;
 		}
 
 		.img-rabbit{
