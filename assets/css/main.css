@@ -19,6 +19,18 @@ body{
     	line-height: 29px;
 }
 
+.fk-description{
+	font-style: italic;
+	font-weight: 600;	
+	font-family: "Crimson";
+	font-size: 19px;
+    	padding-top: 15px;
+    	padding-bottom: 25px;
+	padding-left: 15px;
+	padding-right: 15px;
+    	line-height: 29px;
+}
+
 .social a i{
 	height: 40px;
 	width: 40px;
