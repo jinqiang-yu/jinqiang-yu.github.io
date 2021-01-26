@@ -344,3 +344,5 @@ footer{
 .bibliography li span.abstract.hidden { border: dashed 1px white; }
 .bibliography li span.abstract.hidden.open { border-color: #828282; }
 .bibliography abbr { position: absolute; left: -7em; }
+
+.link { font-weight: bold; margin: 0 0 -2.0ex 0; padding-top: -1ex; padding-bottom: 2.5ex; text-align: right; }
