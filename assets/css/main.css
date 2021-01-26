@@ -52,7 +52,7 @@ body{
 @media (min-width: 778px)
 {
 		.main{
-			height: 200vh;
+			height: auto;
 			overflow: scroll;
 		}
 
