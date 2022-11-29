@@ -348,3 +348,7 @@ footer{
 .bibliography abbr { position: absolute; left: -7em;font-size: 20px;}
 
 .link { font-weight: bold; margin: 0 0 -2.0ex 0; padding-top: -1ex; padding-bottom: 2.5ex; text-align: right; }
+
+.pagination .pagination-meta { overflow: hidden; }
+
+.img_row { /*height: $img-height;*/ width: 100%; overflow: hidden; box-sizing: border-box; }
