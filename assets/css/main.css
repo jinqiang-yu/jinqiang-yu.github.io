@@ -76,7 +76,8 @@ body{
 }
 .img-rabbit{
 	width: 60%;
-	left: -100px;
+	margin-top: 20px;
+	margin-left: 100px;
 }
 .btn-rabbit{
 	background-color: #fff;
